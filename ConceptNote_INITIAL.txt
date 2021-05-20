@@ -9,12 +9,7 @@
 
 
 ## Context :
-- Solana ecosystem is proven to be one of the fastest-growing ecosystems in DeFi space. 
 - SolFarm is a decentralized yield aggregator on Solana built ground up, being the first of its kind in the Solana ecosystem. 
-- Financial systems lend themselves to benefit the most from the scalability that Solana offers. 
-- Particularly Decentralized exchanges (DEXes) and marketplaces in need of fair transactions (to prevent front-running) 
-- Here at, Solfarms, we harvest by “yield farming method and liquidity pool” in Parrot Parrot. 
-- Yield farming is offering ratio lending – that’s for the traders, which can leverage their positions via the ratio lending on Liquidity pool. 
 - It will be a Custodial Lending Platforms where Raydium* will control your private keys (i.e. they control your assets). 
 - Wherein It is an on-chain order book automated market maker (AMM)* built on top of the Solana blockchain powering the evolution of DeFi. 
 - It leverages the central order book of the ProjectSerum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity, and new features for earning yield.
