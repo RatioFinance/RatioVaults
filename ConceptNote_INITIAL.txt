@@ -11,10 +11,10 @@
 ## Context :
 - SolFarm is a decentralized yield aggregator on Solana built ground up, being the first of its kind in the Solana ecosystem. 
 - It will be a Custodial Lending Platforms where Raydium* will control your private keys (i.e. they control your assets). 
-- Wherein It is an on-chain order book automated market maker (AMM)* built on top of the Solana blockchain powering the evolution of DeFi. 
-- It leverages the central order book of the ProjectSerum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity, and new features for earning yield.
-Parrot, a synthetic debt protocol that bridges existing yield-bearing tokens on eth into Solana’s DeFi ecosystem.
-And Synthetify is a protocol for synthetic assets, built on Solana.
+- It is an on-chain order book automated market maker (AMM)* built on top of the Solana blockchain powering the evolution of DeFi. 
+- It leverages the central order book of the decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity, and new features for earning yield.
+- Parrot, a synthetic debt protocol that bridges existing yield-bearing tokens on eth into Solana’s DeFi ecosystem.
+- Synthetify is a protocol for synthetic assets, built on Solana.
 
 ## Workflow
 
