@@ -1,0 +1,112 @@
+# Ratio Radical Markets
+
+## Crux
+- Liquidity Mining
+- Liquidity Yield Farming
+- Liquidity Aggregation Lifecycle
+- Liquidity Backed Over Collateralisation
+- Liquidity Collateral Configurable Position Vault
+
+
+## Context :
+- Solana ecosystem is proven to be one of the fastest-growing ecosystems in DeFi space. 
+- SolFarm is a decentralized yield aggregator on Solana built ground up, being the first of its kind in the Solana ecosystem. 
+- Financial systems lend themselves to benefit the most from the scalability that Solana offers. 
+- Particularly Decentralized exchanges (DEXes) and marketplaces in need of fair transactions (to prevent front-running) 
+- Here at, Solfarms, we harvest by “yield farming method and liquidity pool” in Parrot Parrot. 
+- Yield farming is offering ratio lending – that’s for the traders, which can leverage their positions via the ratio lending on Liquidity pool. 
+- It will be a Custodial Lending Platforms where Raydium* will control your private keys (i.e. they control your assets). 
+- Wherein It is an on-chain order book automated market maker (AMM)* built on top of the Solana blockchain powering the evolution of DeFi. 
+- It leverages the central order book of the ProjectSerum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity, and new features for earning yield.
+Parrot, a synthetic debt protocol that bridges existing yield-bearing tokens on eth into Solana’s DeFi ecosystem.
+And Synthetify is a protocol for synthetic assets, built on Solana.
+
+## Workflow
+
+Raydium* is an automated market maker and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX). Raydium has a first-mover advantage as an AMM within Serum and will be an integral part of bringing new and existing projects and protocols into the ecosystem. The protocol will act as a bridge for projects looking to expand to Solana and Serum, and in the process, Raydium and the RAY token ($RAY) will become a foundation for enabling further development with partners, its own platform, and the ecosystem as a whole.
+Unlike any other AMMs, Raydium provides on-chain liquidity to a central limit order book, meaning that Raydium LPs get access to the entire order flow and liquidity of Serum.
+ (AMM)* Automated market makers =  smart contracts, they hold liquidity reserves (or liquidity pools) so traders can trade against. 
+
+Liquidity Providers: These reserves are funded by liquidity providers. Anyone can be a liquidity provider who deposits an equivalent value of $RAY tokens in the pool. In return, traders pay a fee to the pool that is then distributed to liquidity providers according to their share of the pool. These liquidity tokens can be redeemed for the share they represent in the pool.
+ Overall, the experience  RaydiumProtocol and will be betting that this leads the Solana ecosystem's growth! Liquidity pools are used by Decentralized exchanges.
+
+Yield farming refers to any blockchain protocol that enables any person with some holding of crypto tokens to ‘lock up’ those holdings with a custodian(the protocol) and in return, they distribute rewards; these rewards are typically distributed as protocol governance tokens. In order words, rather than just keeping one’s crypto assets idle in one’s wallet, one can choose to offer it to a service provider and earn some form of interest.
+Yield farmers are extremely creative. They find ways to ‘stack’ yields and even earn multiple governance tokens.
+
+Raydium is the 
+
+
+CONSTRAINTS:
+
+
+STAKEHOLDERS: USER TYPES
+
+
+
+The picture represents the on-chain order book AMM powering the evolution of DeFi.
+CDP - Collateralized Debt Position
+CDO - Collateralized Debt Obligation.
+FUNDAMENTAL PROCESS OF WORKING IN SOLANA YIELD FARMS:
+RAYDIUM:  As wallet user enters RAYDIUM, it is given $RAY tokens, and rUSD.
+YOUR WALLET:
+CDP PROGRAMS:
+Collateralization level:
+You can put your cryptocurrencies with Raydium protocols and earn a decent amount of yield – We offer much higher interest rates in the range (higher than the likes of banks and other real-world finance services.
+But you could take it a step further by creating a chain of transactions that enable you to act as both borrower and lender on various platforms; for instance, you could borrow money from Compound, and use that money to act as a lender on yet some other platform, and earn the incentive token $RAY Token for both platforms. Using strategies like this, yield farmers could see a yields ratio of 200% and liquidity ratio is 150%, Not only do actions like this grow the pool, but ownership of the pool is not determined by a legal contract, but by a token attached to the value of the pool. Tokens, unlike contracts or accounts, are tradeable and liquid in their own right – they have a changing value depending on somebody’s perception of how much money might be inside the pool, as well as how much they could earn in yield by owning said token.
+By playing around with how you contribute to various Raydiumi protocols and “leapfrogging” between each platform to get the highest yields, you are effectively trying to get the most out of your asset, and become a “yield farmer”.
+A low-level, beginner yield farmer might just be trying different assets in Compound, getting their assets into the pools that are offering the highest APY for each day or week. For putting their assets inside the pools, they get a tokenized representation of their position within the pool that earns yield and increases their assets when they return it.
+But mid-level yield farmers take it a step further.
+John, our local yield farmer, might start by putting 20,000 USDT into Compound. The tokenized position they get back is called rUSDT. Let’s say they get 5,000 rUSDT back (doesn’t matter what rUSDT is worth, just know it’s worth something)
+They can then take that rUSDT and put it into a liquidity pool that takes rUSDT on Balancer, an automatic market maker that also provides a small amount of profit to the liquidity providers when others use it thereby creating slightly increased yields.
+Let’s go one step further – it’s time for liquidity mining!
+The highest level of yield farmers knows that this is the best time to get started and be active in yield farming, because of a new concept and trend known as liquidity mining. Liquidity mining is when a yield farmer gets an entirely new token as well as the usual return in exchange for the farmer’s liquidity.
+Compound announced earlier this year it wanted to truly decentralize the product and it wanted to offer limited ownership of the product to the people who made it work in the process of using it. That ownership was developed as the $SOL token. So we now have ----- period where the Compound protocol would give out $SOL tokens to users, a fixed amount every day until it was gone. These $SOL tokens control the protocol, just like how equity stakes and shares represent control and rights to dividends in publicly traded companies.
+Every day, the Compound protocol looks at everyone who had lent money to the application and who had borrowed from it and gives them $RAY TOKEN proportional to their share of the day’s total business. For the first time in the history of finance, a borrower can earn a return on a debt from their lender!
+SOLANA platforms have also adopted the liquidity mining methodology and issuance of a token; earlier mentioned Balancer, the automatic market maker was the next protocol to start distributing a governance token,....., to liquidity providers. Flash loan provider bZx has announced a plan to do the same, while Ren, Curve, and Synthetix also teamed up to promote a liquidity pool on Curve.
+In a way, the entire thing looks and feels almost like a Ponzi scheme, albeit one with possibly good intentions. The issuance of the $RAY token itself doesn’t construct a pyramid, but the incentivized farmers taking loans and borrowing from themselves just to earn the token are making it look like one.
+One parallel that can be drawn to the liquidity mining mechanism is Parrot, SOLANA-based exchange that issued a token that rewarded people for making trades. To earn the token, users would trade back and forth with themselves on the exchange, creating impossibly high volumes. 
+
+
+
+
+PROBLEM STATEMENT:
+
+SOLUTION APPROACH:
+FEATURES OF SOLFARMING AND RAYDIUM PROTOCOL:
+Liquidity Providing: Simply connect a wallet and provide liquidity channels
+Great UI/UX and algorithmic interface.
+Liquidity Pools: Tons of different pools are available.
+Farms: Tons of different farming options will some good APR's.
+
+
+ RADYIUM PROTOCOL FEATURES:
+ Faster and cheaper:
+ We leverage the efficiency of the Solana blockchain to achieve transaction magnitudes faster than Ethereum and gas fees which are a fraction of the cost."
+ A central order book for ecosystem-wide liquidity: 
+Raydium provides on-chain liquidity to the central limit order book of the Serum DEX, meaning that Raydium allows access to the order flow and liquidity of the entire Serum ecosystem."
+Trading interface 
+For traders who want to be able to view TradingView charts, set limit orders, and have more control over their trading.
+
+TECHNOLOGY COMPONENTS: VAULTS
+
+
+Requirement: To create a lending platform on Solana. Solana is scalable, low cost, and composable. Its processing speed is double every 2 years.
+Constraints: Reason why people go for it. Return fractionalized lending system. Why factor.
+Stakeholders: User types
+Problem Statement: why?
+
+Solution Approach
+Technology Components: vault
+My doubts.
+1.
+Is it a compound interest yield aggregator or a simple interest yield aggregator?
+Simple pool and aggregate pool multi compounding on single or multiple assets?
+If it is a Dual Yield pool will have a tooltip indicating their mechanics to avoid confusion. These pools will involve a very small amount of asset exchanges to balance out LP amounts on compounding.
+ RAY single asset staking vaults 
+Single SOL Vault and multiple SOL Vault.
+
+
+2.
+(which type of platform it would be)  
+Custodial Lending Platforms – they control your private keys (i.e. they control your assets)
+Non-Custodial Lending Platforms– the do no control your private keys (i.e. they do not control your assets)
