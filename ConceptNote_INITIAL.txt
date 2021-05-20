@@ -32,22 +32,8 @@ These reserves are funded by liquidity providers. Anyone can be a liquidity prov
 Yield farming refers to any blockchain protocol that enables any person with some holding of crypto tokens to ‘lock up’ those holdings with a custodian(the protocol) and in return, they distribute rewards; these rewards are typically distributed as protocol governance tokens. In order words, rather than just keeping one’s crypto assets idle in one’s wallet, one can choose to offer it to a service provider and earn some form of interest.
 Yield farmers are extremely creative. They find ways to ‘stack’ yields and even earn multiple governance tokens.
 
-## CONSTRAINTS:
-
-
-## STAKEHOLDERS: 
-
-
-
-The picture represents the on-chain order book AMM powering the evolution of DeFi.
-
-CDP - Collateralized Debt Position
-CDO - Collateralized Debt Obligation
-
-FUNDAMENTAL PROCESS OF WORKING IN SOLANA YIELD FARMS:
-RAYDIUM:  As wallet user enters RAYDIUM, it is given $RAY tokens, and rUSD.
-
 Collateralization level:
+
 You can put your cryptocurrencies with Raydium protocols and earn a decent amount of yield – We offer much higher interest rates in the range (higher than the likes of banks and other real-world finance services.
 But you could take it a step further by creating a chain of transactions that enable you to act as both borrower and lender on various platforms; for instance, you could borrow money from Compound, and use that money to act as a lender on yet some other platform, and earn the incentive token $RAY Token for both platforms. Using strategies like this, yield farmers could see a yields ratio of 200% and liquidity ratio is 150%, Not only do actions like this grow the pool, but ownership of the pool is not determined by a legal contract, but by a token attached to the value of the pool. Tokens, unlike contracts or accounts, are tradeable and liquid in their own right – they have a changing value depending on somebody’s perception of how much money might be inside the pool, as well as how much they could earn in yield by owning said token.
 By playing around with how you contribute to various Raydiumi protocols and “leapfrogging” between each platform to get the highest yields, you are effectively trying to get the most out of your asset, and become a “yield farmer”.
