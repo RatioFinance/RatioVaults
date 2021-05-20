@@ -63,11 +63,6 @@ SOLANA platforms have also adopted the liquidity mining methodology and issuance
 In a way, the entire thing looks and feels almost like a Ponzi scheme, albeit one with possibly good intentions. The issuance of the $RAY token itself doesn’t construct a pyramid, but the incentivized farmers taking loans and borrowing from themselves just to earn the token are making it look like one.
 One parallel that can be drawn to the liquidity mining mechanism is Parrot, SOLANA-based exchange that issued a token that rewarded people for making trades. To earn the token, users would trade back and forth with themselves on the exchange, creating impossibly high volumes. 
 
-
-## PROBLEM STATEMENT:
-
-## SOLUTION APPROACH:
-
 FEATURES OF SOLFARMING AND RAYDIUM PROTOCOL:
 Liquidity Providing: Simply connect a wallet and provide liquidity channels
 Great UI/UX and algorithmic interface.
@@ -76,15 +71,13 @@ Farms: Tons of different farming options will some good APR's.
 
 
  ## RADYIUM PROTOCOL FEATURES:
- Faster and cheaper:
- We leverage the efficiency of the Solana blockchain to achieve transaction magnitudes faster than Ethereum and gas fees which are a fraction of the cost."
- A central order book for ecosystem-wide liquidity: 
-Raydium provides on-chain liquidity to the central limit order book of the Serum DEX, meaning that Raydium allows access to the order flow and liquidity of the entire Serum ecosystem."
-Trading interface 
-For traders who want to be able to view TradingView charts, set limit orders, and have more control over their trading.
 
-TECHNOLOGY COMPONENTS: VAULTS
+Leverage the efficiency of the Solana blockchain to achieve transaction magnitudes faster than Ethereum and gas fees which are a fraction of the cost."
+A central order book for ecosystem-wide liquidity: Raydium provides on-chain liquidity to the central limit order book of the Serum DEX, meaning that Raydium allows access to the order flow and liquidity of the entire Serum ecosystem. Trading interface. For traders who want to be able to view TradingView charts, set limit orders, and have more control over their trading.
 
+## TECHNOLOGY COMPONENTS:
+- RAY single asset staking vaults 
+- Single SOL Vault and multiple SOL Vault.
 
 Requirement: To create a lending platform on Solana. Solana is scalable, low cost, and composable. Its processing speed is double every 2 years.
 Constraints: Reason why people go for it. Return fractionalized lending system. Why factor.
@@ -98,7 +91,6 @@ Technology Components: vault
 
 Is it a compound interest yield aggregator or a simple interest yield aggregator? Or is it a Simple pool and aggregate pool multi compounding on single or multiple assets? If it is a Dual Yield pool will have a tooltip indicating their mechanics to avoid confusion. These pools will involve a very small amount of asset exchanges to balance out LP amounts on compounding.
 
-2.
 (which type of platform it would be)  
 Custodial Lending Platforms – they control your private keys (i.e. they control your assets)
 Non-Custodial Lending Platforms– the do no control your private keys (i.e. they do not control your assets)
