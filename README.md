@@ -1,8 +1,7 @@
 # Application Architecture
-- Collateral Debt Position Segmented Vaults
-- Collateral Debt Obligation Proofs
-- Liquidity Pool Tokenisation
-- Liquidity Pool fusion to Yield Aggregator
+- Direct Deposit Vaults
+- Collateral Debt Position Vaults
+- Liquidity Pool fusion to SolFarm
 
 ## Contract Compilation
 - https://en.wikipedia.org/wiki/Berkeley_Packet_Filter
